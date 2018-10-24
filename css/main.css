@@ -1,0 +1,176 @@
+.headline {
+    background-color: rgb(143, 191, 77);
+    color: #f4f4f4;
+    font: 'Open Sans', sans-serif;
+    background-repeat: no-repeat;
+    background-image: url("../img/computer-30481.png");
+    background-size: contain;
+    /*    background-attachment: fixed;*/
+    background-position: right;
+    margin-bottom: 0px;
+}
+
+.top-nav {
+    background-color: #8fbf4d;
+}
+
+.nav-item .dropdown-menu {
+    background-color: #8fbf4d;
+}
+
+.nav-item .dropdown-item {
+    color: #f4f4f4;
+}
+
+.nav-item .dropdown-item:hover {
+    color: #363947;
+}
+
+/* Top Tab Navigation */
+.nav-item,
+.nav-link {
+    border-radius: 0px !important;
+    color: #363947;
+    text-align: center;
+    transition: all .3s;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+
+.nav-link:hover {
+    color: #363947;
+    background: #8fbf4d;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: #f4f4f4 !important;
+    background: #8fbf4d !important;
+}
+
+.tab-pane {
+    padding-top: 20px;
+}
+
+.category {
+    float: left;
+    font: 600 25px/28px 'Open Sans', sans-serif;
+}
+
+.nav-pills .nav-link {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.top_block {
+    padding-bottom: 103px;
+    background-color: #f4f4f4;
+}
+
+.top_block .card {
+    background-color: #f4f4f4;
+    border: none;
+}
+
+.top_block .title {
+    margin-bottom: 5%;
+    padding-bottom: 5%;
+    padding-left: 2%;
+    position: relative;
+    padding-top: 2%;
+    text-transform: uppercase;
+    color: #363947;
+    font: 600 25px/28px 'Open Sans', sans-serif;
+    display: inline-block;
+}
+
+.top_block .count {
+    display: inline-block;
+    background-color: #363947;
+    width: 47px;
+    height: 47px;
+    color: #fff;
+    font-weight: 300;
+    text-align: center;
+    font-size: 20px;
+    line-height: 43px;
+}
+
+.accent {
+    text-transform: capitalize;
+    color: white;
+    font-size: 120%;
+}
+
+.col1 {
+    color: #8fbf4d;
+}
+
+.features {
+    display: block;
+    color: #8f9caa;
+    background-color: transparent;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#footer {
+    display: block;
+    padding: 0px 0 40px;
+    color: #8f9caa;
+    background-color: #363947;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#footer a {
+    color: #8f9caa;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.headline2 {
+    /*    height: 270px;*/
+    background-color: rgb(143, 191, 77);
+    color: #f4f4f4;
+    font: 'Open Sans', sans-serif;
+    background-repeat: no-repeat;
+    background-image: url("../img/server-36950.png");
+    background-size: contain;
+    background-position: right;
+    margin-bottom: 0px;
+}
+
+/* Accordion style */
+.accordion-header {
+    padding: 5px;
+    width: 100%;
+    background-color: transparent;
+    border-radius: 0;
+    color: #363947;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+/* Contacts page */
+.c-info {
+    padding: 1rem;
+    text-align: left;
+}
+
+.c-info i {
+    color: #29d9c2;
+    font-size: 1.2rem;
+    margin: 0 0 15px;
+}
+
+.c-info a {
+    color: #363947;
+    font-size: 1.2rem;
+    margin: 15px 0 7px;
+}
+
+/*
+@media all and (max-width: 736px)
+{
+    .content { height: 170px;}
+}
+*/
+/* Modal Form style */
